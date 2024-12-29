@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates a common type error. The function attempts to add an integer and a string which results in a `TypeError`.  The bug is fixed by explicitly converting the string to an integer before the addition. This example highlights the importance of type checking in Python.
